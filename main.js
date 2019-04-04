@@ -193,7 +193,7 @@ module.exports = "\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "\n  <img class=\"titleImage\" src=\"../assets/images/title.jpg\">\n  <hr>\n\n"
+module.exports = "\n  <img class=\"titleImage\" src=\"../../AngularReservations/assets/images/title.jpg\">\n  <hr>\n\n"
 
 /***/ }),
 

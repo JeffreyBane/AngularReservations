@@ -1,0 +1,25 @@
+td {
+    font-family: Arial;
+}
+th {
+    font-family: Arial;
+}
+p {
+    font-family: Arial;
+}
+input {
+    font-family: Arial; 
+}
+
+.tableFulfill {
+background-color:#c3e6cb; opacity: 1;-webkit-transition: all 200ms ease-in-out;-moz-transition: all 200ms ease-in-out;-ms-transition: all 200ms ease-in-out;-o-transition: all 200ms ease-in-out;transition: all 200ms ease-in-out;
+}
+.tableCancel {
+background-color:#f5c6cb; opacity: 1;-webkit-transition: all 200ms ease-in-out;-moz-transition: all 200ms ease-in-out;-ms-transition: all 200ms ease-in-out;-o-transition: all 200ms ease-in-out;transition: all 200ms ease-in-out;
+}
+.tableDefault {
+background-color:#ffffff; opacity: 1;-webkit-transition: all 200ms ease-in-out;-moz-transition: all 200ms ease-in-out;-ms-transition: all 200ms ease-in-out;-o-transition: all 200ms ease-in-out;transition: all 200ms ease-in-out;
+}
+.titleImage {
+    margin: 0 auto;
+}

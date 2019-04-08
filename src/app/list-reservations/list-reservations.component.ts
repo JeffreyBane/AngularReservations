@@ -54,7 +54,7 @@ constructor(fb: FormBuilder) {
 
 
     // Check for first time run 
-    if (localStorage.getItem("ReslistArray") === null) {
+    if (localStorage.getItem("ReslistArray") == null) {
       // Add a few reservations for demo, comment out for production use
       // localStorage.clear();      
 
